@@ -1,0 +1,18 @@
+Responda a las siguientes preguntas:
+
+• ¿Qué tipo de modelo aplicaría?
+#Arbol de decision su parte de clasificacion
+
+• ¿Por qué consideras que ese modelo es adecuado?
+#Por que adiferencia de la regresion logistica el arbol desicion es mucho mas preciso
+
+Ahora ha aplicado algunos algoritmos de machine learning en datos:
+• ¿De qué manera considera que es diferente a la programación regular, para
+este tipo de proyectos?
+#Sinceramente este enfoque se me ha dificultado por que no es igual a la programcion regular, concidero que el analisis de
+datos es algo mucho mas complejo de lo que a simple vista parece
+
+• ¿Por qué cree que los modelos como los vistos en las clases no logran llegar
+a un 100% de respuestas correctas?
+#Por que son modelos que dan predcciones no son resultados todo depende de las caracteristicas iniciales y arreglamos los datos
+para que el modelo tenga una buena tasa de aciertos
